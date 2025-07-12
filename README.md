@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 
 # 🧠 Data-Driven Insights into Anxiety Disorders
 
@@ -8,8 +6,8 @@
 This project aims to explore and understand the patterns behind anxiety disorders using Exploratory Data Analysis (EDA) and data preprocessing techniques. The dataset used is sourced from Kaggle and focuses on the impact of gaming behavior on anxiety levels, narcissism, and related psychological factors.
 
 ## 👩‍💻 Authors
-* Prashant Uppar - [02fe22bcs069@kletech.ac.in](mailto:02fe22bcs069@kletech.ac.in)
 * Chandni Kumari - [02fe22bcs026@kletech.ac.in](mailto:02fe22bcs026@kletech.ac.in)
+* Prashant Uppar - [02fe22bcs069@kletech.ac.in](mailto:02fe22bcs069@kletech.ac.in)
 * Wilfred Antonio Borges - [02fe22bcs177@kletech.ac.in](mailto:02fe22bcs177@kletech.ac.in)
 * Yukta Sannaki - [02fe22bcs179@kletech.ac.in](mailto:02fe22bcs179@kletech.ac.in)
 
@@ -68,7 +66,3 @@ This project aims to explore and understand the patterns behind anxiety disorder
 
 Although the primary focus of the project was on EDA, **Logistic Regression** was implemented to evaluate its suitability in predicting psychological traits like narcissism based on behavioral data.
 
-=======
-# student-narcissism-prediction
-EDA Course Project
->>>>>>> 90115109164695535313692f027f617d34797195
