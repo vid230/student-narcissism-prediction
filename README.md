@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # 🧠 Data-Driven Insights into Anxiety Disorders
@@ -67,3 +68,7 @@ This project aims to explore and understand the patterns behind anxiety disorder
 
 Although the primary focus of the project was on EDA, **Logistic Regression** was implemented to evaluate its suitability in predicting psychological traits like narcissism based on behavioral data.
 
+=======
+# student-narcissism-prediction
+EDA Course Project
+>>>>>>> 90115109164695535313692f027f617d34797195
