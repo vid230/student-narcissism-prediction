@@ -1,0 +1,77 @@
+# Panic Disorder: what it is, how it shows up, and what helps
+
+**Panic disorder** is a treatable anxiety condition marked by **recurrent, unexpected panic attacks** and ongoing worry about having more, or about their consequences (e.g., “I’ll faint,” “I’m going crazy,” “I’ll die”). People often start to **change their behavior** to avoid situations where an attack would be embarrassing or hard to escape (crowded stores, public transit, long meetings). This avoidance can shrink day-to-day life and, in some cases, develop into **agoraphobia**.
+
+## First: panic attacks vs. panic disorder
+
+* **Panic attack:** a **sudden surge of intense fear** that peaks within minutes, with physical symptoms like pounding heart, chest tightness, shortness of breath, dizziness, chills/heat, tingling, shaking, nausea, derealization (“this feels unreal”), or depersonalization (“I feel detached”). Attacks can happen in any anxiety condition—or even in medical contexts—and **don’t automatically mean** panic disorder.
+* **Panic disorder:** repeated, **unexpected** panic attacks **plus** at least one month of **persistent concern** about more attacks and/or **maladaptive changes** in behavior (avoidance, carrying “safety” items, seeking constant reassurance).
+
+## Why it happens
+
+There isn’t a single cause. Contributing factors include:
+
+* **Biology:** a sensitive fight-or-flight system; familial vulnerability; changes in brain circuits involved in interoception (body-signal sensing).
+* **Learning:** after a scary first episode, people may start **catastrophic misinterpretations** of normal bodily sensations (e.g., “my heart’s racing → heart attack”), which increases fear and triggers more sensations—a **fear–of–fear spiral**.
+* **Stress & substances:** major stressors, sleep loss, caffeine/energy drinks, nicotine, cannabis, and some medications can lower the threshold for attacks.
+
+## How it’s diagnosed
+
+A clinician looks for:
+
+* Recurrent, **unexpected** panic attacks
+* At least **1 month** of worry about attacks or behavior change
+* Not better explained by a substance, medical issue (e.g., hyperthyroidism, arrhythmia, asthma), or another mental health condition
+  Evaluation often includes reviewing **medical history**, medications, caffeine and substance use, and screening for **agoraphobia**, depression, or other anxiety disorders.
+
+## Evidence-based treatments
+
+Most people improve substantially with standard treatments, and many regain full functioning.
+
+**Cognitive Behavioral Therapy (CBT), panic-focused (first-line)**
+
+* **Psychoeducation:** how panic works (the adrenaline loop) and why it’s safe though miserable.
+* **Interoceptive exposure:** **on purpose** provoke feared body sensations (e.g., spinning to feel dizzy, running in place to raise heart rate, breath-holding for breathlessness) and stay with them until fear drops. You learn that sensations are **tolerable and temporary**.
+* **Situational exposure:** gradually re-enter avoided places (buses, supermarkets, lines) without safety behaviors.
+* **Cognitive skills:** test catastrophic thoughts against real outcomes.
+
+**Medications (often helpful, sometimes combined with CBT)**
+
+* **SSRIs/SNRIs** are first-line. They reduce attack frequency and anticipatory anxiety over weeks.
+* **Benzodiazepines** can reduce acute symptoms but carry dependence and tolerance risks and may interfere with exposure learning; if used, they’re typically **short-term** and carefully supervised.
+* **Tricyclics** or other options may be considered when first-line meds aren’t tolerated.
+
+**Lifestyle supports**
+
+* **Regular sleep, steady meals, hydration**
+* **Limit stimulants** (caffeine, energy drinks, decongestants)
+* **Exercise** (a natural way to experience and normalize bodily arousal)
+* **Breathing retraining** (slow diaphragmatic breathing during recovery—avoid over-controlling breath in the moment if it becomes a safety behavior)
+
+## What to do during a panic attack (quick plan)
+
+1. **Name it:** “This is a panic surge. It’s uncomfortable, not dangerous. It peaks and passes.”
+2. **Drop the struggle:** Let sensations be there without checking your pulse or escaping if safe.
+3. **Anchor attention:** 5-4-3-2-1 grounding (things you can see, feel, hear, smell, taste) or paced breathing (inhale ~4, exhale ~6).
+4. **Ride it out:** Most attacks peak within **10 minutes**; waves may follow but diminish.
+
+## Common traps that keep panic going
+
+* **Safety behaviors:** carrying water “just in case,” sitting near exits, constant pulse checks—these prevent disconfirmation and keep fear alive.
+* **Avoidance:** short-term relief, long-term disability.
+* **Catastrophic self-talk:** “If my heart races, I’ll have a heart attack.” (In a healthy person, adrenaline racing ≠ heart attack.)
+
+## When to seek help
+
+* Attacks are **recurrent**, **unpredictable**, or you’re **avoiding** important activities.
+* You’re unsure whether symptoms are medical or anxiety-related.
+* You have **depressive symptoms**, substance misuse, or thoughts of self-harm.
+
+A primary care clinician can rule out medical causes and refer to therapy/psychiatry. Many therapists offer **CBT with interoceptive/situational exposure**, which is the key ingredient for lasting change.
+
+## Outlook
+
+Panic disorder is **highly treatable**. With targeted CBT (often 8–15 sessions), many people substantially reduce or eliminate attacks and abandon avoidance. Medications can further support recovery. Relapses can happen under stress, but the same tools work again—most people get back on track quickly.
+
+*Informational only; not medical advice. If you have chest pain, new severe symptoms, or safety concerns, seek urgent medical care.*
+
