@@ -1,0 +1,76 @@
+Here’s a clear, practical primer on **selective mutism (SM)**—what it is, how it’s diagnosed, how it shows up day-to-day, and what actually helps.
+
+# What it is
+
+Selective mutism is an **anxiety disorder**: a consistent **inability to speak in certain social situations where speech is expected** (e.g., school, work), despite being able to speak normally in other settings (often at home). It’s not stubbornness or a choice; the silence is driven by anxiety. In DSM-5-TR it’s classified under anxiety disorders. ([ASHA][1])
+
+# What it looks like (common signs)
+
+* No (or barely audible) speech with specific people or in specific places (e.g., only whispers to a parent at school).
+* Very brief replies, mumbling/whispering, delayed responses, a “frozen” posture, avoidance of eye contact.
+* Communication via gestures, head-nods, writing, or a parent “speaking for” the child.
+* Marked distress or impairment (social/academic/work). ([Cleveland Clinic][2])
+
+# How common & who’s most at risk
+
+Point-prevalence estimates in children range roughly **0.03%–0.8%**; girls are slightly more affected. Rates are **higher among immigrant / bilingual children** and in children with speech-language delays. Onset is usually in the early school years. ([PMC][3])
+
+# DSM-5-TR diagnosis (in plain language)
+
+A clinician may diagnose SM when:
+
+1. There’s a consistent failure to speak in specific expected situations;
+2. It interferes with functioning;
+3. It lasts **1+ month** (beyond the first school month);
+4. It isn’t due to lack of language knowledge or a communication disorder;
+5. It isn’t better explained by another disorder (e.g., autism). ([ASHA][1])
+
+> Note: Newly bilingual kids can have a normal “silent period” while acquiring a new language—this is **not** SM. Duration/context help clinicians tell them apart. ([AACAP][4])
+
+# Common co-occurring issues
+
+* **Social anxiety** (very common)
+* **Speech-language** differences
+* Other anxiety disorders or neurodevelopmental conditions in some cases. ([PMC][5])
+
+# What helps (evidence-based care)
+
+**1) Behavioral & CBT approaches (first-line):**
+
+* **Gradual exposure** (anxiety ladder), **stimulus fading** (introduce new listeners slowly), **shaping** (reward any step toward voice), **contingency management**, **self-modeling** (video/audio of speaking in safe contexts), **parent–teacher coaching**, and **school-based plans**. These are the core, most supported strategies. ([nhs.uk][6])
+
+**2) Speech-Language Pathology (SLP) involvement:**
+SLPs address communication needs (e.g., alternative response modes, pragmatic language), coordinate with teachers, and work alongside psychologists/psychiatrists. ([ASHA][7])
+
+**3) Medication (adjunct, case-by-case):**
+For severe or persistent cases—especially with broader anxiety—clinicians sometimes add **SSRIs** (e.g., fluoxetine/sertraline). Evidence is limited (mostly case series/open trials), so meds are typically **not first-line** and are paired with behavioral therapy. ([Canadian Science Publishing][8])
+
+# At home & at school/work (practical do’s)
+
+* **Remove pressure to speak**; accept nonverbal replies while you build exposure steps.
+* **Set tiny, achievable goals** (e.g., record a greeting at home → play it at school → whisper to teacher → say one word).
+* **One new challenge at a time**, with lots of praise for effort (not just voice).
+* **Predictable routines & priming** (who will be there, what will be asked).
+* **Teacher plan**: agreed cues, alternative response options, gentle turn-taking, seating that reduces spotlight, and structured practice opportunities.
+* **For teens/adults**: similar exposure principles at university/work (e.g., scripted phone calls, speaking with a trusted colleague first, then small meetings). ([nhs.uk][6])
+
+# What *not* to do
+
+* Don’t label as “rude,” “defiant,” or “manipulative.”
+* Don’t spring speaking demands or bribe/punish for voice.
+* Don’t let others permanently speak for the person—use it only as a **bridge** while exposures are underway. ([nhs.uk][6])
+
+# Prognosis
+
+With **early, well-coordinated behavioral treatment**, many children significantly improve; some fully remit. Without support, SM can impair academics, peer relationships, and self-esteem and may persist. ([PubMed][9])
+
+# How it’s different from…
+
+* **Extreme shyness**: SM involves consistent, situation-bound inability to speak plus impairment.
+* **Autism**: SM is primarily anxiety-driven mutism; autism involves broader social-communication differences and restricted/repetitive patterns.
+* **Language barrier**: SM persists despite knowing the language (vs. the normal “silent period” in second-language learners). ([ASHA][1])
+
+# Getting help (where to start)
+
+* **Pediatrician/GP** → referral to **child psychologist/psychiatrist** and **SLP**; for adults, a clinical psychologist/psychiatrist familiar with SM and social anxiety.
+* Ask schools for a **written support plan** and regular check-ins. ASHA and NHS pages outline practical school strategies you can bring to meetings. ([ASHA][7])
